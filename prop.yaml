@@ -1,0 +1,6 @@
+testSecret1FromSM: ${SM_SECRET1}
+testSecret2FromSM: ${SM_SECRET2}
+testSecret1FromPS: ${PS_SECRET1}
+testIntConfigFromEnv: ${TEST_INT_VALUE}
+testBoolConfigFromEnv: ${TEST_VALUE_1}
+testMapConfigFromEnv: ${TEST_VALUE_2}
